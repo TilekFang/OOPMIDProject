@@ -1,4 +1,4 @@
-# OOPMIDProject
+# OOPMIDProject2020
   -I create the login page.Based on tutorials and mini projects. Initially, I wanted to make a student of management systems, but after studying I realized that it was too difficult for my level. I decided to create a login system for a good experience, also relied on several sources. But I did most of the work myself (names, sizes, styles, positions, etc.).
   
   -For files, I want to use this ee project and add a game to it after logging in to the window, namely tic-tac-toe!
